@@ -1,2 +1,5 @@
-# Cyberbullying_Hate_Speech_Detection_Multimodal_Analysis
-This project focuses on detecting cyberbullying and hate speech through a multimodal approach, utilizing both text and image data. By employing advanced machine learning and natural language processing techniques, it aims to identify and mitigate harmful content on social media platforms.
+# Cyberbullying/Hate Speech Detection
+
+This project is designed to detect cyberbullying and hate speech from both text inputs and images. It leverages various machine learning classifiers to perform the detection and deploys the model using Streamlit for a web-based user interface.
+
+BY-:MANOHAR SINGH

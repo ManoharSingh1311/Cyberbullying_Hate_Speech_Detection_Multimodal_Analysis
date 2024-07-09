@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+streamlit
+pytesseract
+nltk
+Pillow
